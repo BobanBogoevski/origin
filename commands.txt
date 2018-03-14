@@ -37,3 +37,5 @@ git commit -m "Add commands.txt"
 
 18.git push origin allcommands
 
+19.git rebase master
+git push origin allcommands

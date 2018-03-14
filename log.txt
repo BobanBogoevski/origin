@@ -1,0 +1,12 @@
+C:\Users\161103\lab1>git log
+commit dea6182ad51b6c7987a87a2e16599bc80f5cc8c5
+Author: Boban Bogoevski <boban.bogoevski@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:19:41 2018 +0100
+
+    modify l1.txt
+
+commit c5bfdb6a8118bf13866206282b7c7200c9782a49
+Author: Boban Bogoevski <boban.bogoevski@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:17:05 2018 +0100
+
+    Initial commit

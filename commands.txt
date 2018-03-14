@@ -1,0 +1,39 @@
+2. mkdir lab1
+
+3.notepad l1.txt
+
+4.git add l1.txt
+
+5.git commit -m "Initial commit"
+
+6.git add l1.txt
+
+7.git commit -m "modify l1.txt"
+
+9.git remote add origin https://github.com/BobanBogoevski/origin.git
+
+10.git push origin master
+
+11.git pull origin master
+
+12.git branch logging
+
+13. git checkout logging
+notepad log.txt
+git log
+
+14.git push origin logging
+
+15. git checkout master
+git merge logging
+git push origin master
+
+16.git branch allcommands
+
+17.git checkout allcommands
+notepad commands.txt
+git add commands.txt
+git commit -m "Add commands.txt"
+
+18.git push origin allcommands
+
